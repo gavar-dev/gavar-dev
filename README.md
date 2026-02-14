@@ -172,8 +172,8 @@ Estou em constante aperfeiçoamento técnico, buscando aprofundar conhecimentos 
 |---|---|:---:|
 | **Bacharel em Ciência da Computação** | **UniCarioca** | **2024** |
 | **Espanhol (Intermediário - B1)** | **Instituto Cervantes** | **2019** |
-| **Programador Full Stack** | **SENAC** | **Curando** |
-| **Power BI** | **SENAC** | **Curando** |
+| **Programador Full Stack** | **SENAC** | **Cursando** |
+| **Power BI** | **SENAC** | **Cursando** |
 
 <hr/>
 
