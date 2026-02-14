@@ -189,7 +189,7 @@ Estou em constante aperfeiçoamento técnico, buscando aprofundar conhecimentos 
   - HTML5 e CSS3 (módulos 1 a 3) – Curso em Vídeo  
   - JavaScript para Web – Curso em Vídeo
  
-  <div align="right">Made with 💜 by <a href="https://github.com/gavar-dev">Gabriel</a>.</div>
+  <!-- <div align="right">Made with 💜 by <a href="https://github.com/gavar-dev">Gabriel</a>.</div> -->
 
 </details>
 
