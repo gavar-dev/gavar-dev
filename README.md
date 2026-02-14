@@ -8,11 +8,24 @@
 
 <!-- FRASE "ANDANDO" (SVG ANIMADO) -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=900&color=E2E8F0&center=true&vCenter=true&width=980&lines=Construindo+solu%C3%A7%C3%B5es+Full-Stack+com+foco+em+resultado.;Automatizando+processos+com+Python+e+RPA.;Transformando+dados+em+insights+para+decis%C3%B5es+estrat%C3%A9gicas.;Java+%7C+Spring+Boot+%7C+React+%7C+SQL+%7C+Docker"
-    alt="Texto animado"
-  />
+  <picture>
+    <!-- Tema escuro -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=900&color=E2E8F0&center=true&vCenter=true&width=980&lines=Construindo+solu%C3%A7%C3%B5es+Full-Stack+com+foco+em+resultado.;Automatizando+processos+com+Python+e+RPA.;Transformando+dados+em+insights+para+decis%C3%B5es+estrat%C3%A9gicas.;Java+%7C+Spring+Boot+%7C+React+%7C+SQL+%7C+Docker"
+    />
+    <!-- Tema claro -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=900&color=0F172A&center=true&vCenter=true&width=980&lines=Construindo+solu%C3%A7%C3%B5es+Full-Stack+com+foco+em+resultado.;Automatizando+processos+com+Python+e+RPA.;Transformando+dados+em+insights+para+decis%C3%B5es+estrat%C3%A9gicas.;Java+%7C+Spring+Boot+%7C+React+%7C+SQL+%7C+Docker"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=900&color=0F172A&center=true&vCenter=true&width=980&lines=Construindo+solu%C3%A7%C3%B5es+Full-Stack+com+foco+em+resultado.;Automatizando+processos+com+Python+e+RPA.;Transformando+dados+em+insights+para+decis%C3%B5es+estrat%C3%A9gicas.;Java+%7C+Spring+Boot+%7C+React+%7C+SQL+%7C+Docker"
+      alt="Texto animado"
+    />
+  </picture>
 </p>
+
 
 <!-- BOTÕES TOPO -->
 <p align="center">
@@ -158,7 +171,9 @@ Estou em constante aperfeiçoamento técnico, buscando aprofundar conhecimentos 
 | Curso | Instituição | Conclusão |
 |---|---|:---:|
 | **Bacharel em Ciência da Computação** | **UniCarioca** | **2024** |
-| **Espanhol (Intermediário - B1)** | **Instituto Cervantes** | **2022** |
+| **Espanhol (Intermediário - B1)** | **Instituto Cervantes** | **2019** |
+| **Programador Full Stack** | **SENAC** | **Curando** |
+| **Power BI** | **SENAC** | **Curando** |
 
 <hr/>
 
