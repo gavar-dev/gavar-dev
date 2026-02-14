@@ -66,7 +66,7 @@ Estou em constante aperfeiçoamento técnico, buscando aprofundar conhecimentos 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,html,css" />
 
 ### 🌐 Front-end
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,angular,vuejs,nextjs,tailwind,bootstrap" />
 
 ### ⚙️ Back-end
 <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,flask,django" />
